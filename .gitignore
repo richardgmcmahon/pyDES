@@ -5,6 +5,7 @@
 # Don't ignore .gitignore and *.foo files
 !.gitignore
 !*.py
+!README*
 # Ignore trivialAccess stuff
 *trivialAccess*
 # Ignore wfcam stuff
