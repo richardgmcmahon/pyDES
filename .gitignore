@@ -1,0 +1,15 @@
+# Ignore everything
+*
+# Don't ignore directories, so we can recurse into them
+!*/
+# Don't ignore .gitignore and *.foo files
+!.gitignore
+!*.py
+# Ignore trivialAccess stuff
+*trivialAccess*
+# Ignore wfcam stuff
+*wfcam*
+# .csh files
+*.csh
+.*.py
+*test*
